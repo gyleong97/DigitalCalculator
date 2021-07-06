@@ -80,4 +80,5 @@ The project applies the basic operations of digital calculator for two 1-digit i
 ## Hardware Connection
 ![image](https://user-images.githubusercontent.com/78777424/124570919-e2a7f800-de79-11eb-9690-6091164698b4.png)
 
-
+## Video demonstration link: 
+https://youtu.be/hT2JrUVO6RM 
