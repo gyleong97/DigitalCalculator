@@ -1,7 +1,4 @@
 # Milestone 5&6: Digital Calculator
-
-This project is dedicated as a requirement to complete the course SKEL4273 CAD with HDL
-
 ## Group Details
 Group Name: J.E.M.
 
@@ -13,8 +10,22 @@ Lecturer: PM. Muhammad Mun'im Ahmad Zabidi
 | Joyce Ng Ting Ming |    A17KE0077   |
 | Chan Pei Ting | A17KE0046 |
 
-## Description 
+## Intrduction
 
+This project is dedicated as a requirement to complete the course SKEL4273 CAD with HDL of Universiti Teknologi Malaysia (UTM), Johor Bahru, Malaysia.
+
+The project applies the basic operations of digital calculator for two 1-digit inputs including addition, subtraction, multiplication and subtraction. The inputs are obtained from 4x4 matrix membrane keypad and the results will be displayed on 2-digit 7-segment display. This repository records the overall design flow of digital calculator with the aid of Altera Quartus Prime Lite 16.0 and powered on Altera Terasic DE1-SoC FPGA board.
+
+## Software
+
+1. Altera Quartus Prime Lite 16.0
+
+## Hardware
+
+1. Altera Terasic DE1-SoC FPGA
+2. Breadboard
+3. 4x4 Matrix Membrane Keypad
+4. Jumper Wires (Male-to-male, Female-to-male)
 
 ## Algorithm of Digital Calculator in C Language	
 
