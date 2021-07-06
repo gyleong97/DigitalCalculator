@@ -47,3 +47,26 @@ Lecturer: PM. Muhammad Mun'im Ahmad Zabidi
 ## IOBD of Connection of Digital Calculator with Keypad
 ![iobd](https://user-images.githubusercontent.com/78777424/124570269-4d0c6880-de79-11eb-9b29-39896eb3d8ab.PNG)
 
+
+## Simulation Report & Waveform
+![image](https://user-images.githubusercontent.com/78777424/124570509-8c3ab980-de79-11eb-9ae6-6c825d81bbb4.png)
+
+
+## RTL viewer of Top-Level Module
+![image](https://user-images.githubusercontent.com/78777424/124570638-a8d6f180-de79-11eb-9365-93230c9b6b37.png)
+
+
+## Pin Planner
+![image](https://user-images.githubusercontent.com/78777424/124570714-ba1ffe00-de79-11eb-9cfd-6814a57207ac.png)
+![image](https://user-images.githubusercontent.com/78777424/124571009-fb181280-de79-11eb-84b0-802f56123383.png)
+![image](https://user-images.githubusercontent.com/78777424/124571075-0ec37900-de7a-11eb-97a4-cfbac1646034.png)
+
+
+## Programmer
+![image](https://user-images.githubusercontent.com/78777424/124570865-d6239f80-de79-11eb-93f3-ad0f0832c837.png)
+
+
+## Hardware Connection
+![image](https://user-images.githubusercontent.com/78777424/124570919-e2a7f800-de79-11eb-9690-6091164698b4.png)
+
+
