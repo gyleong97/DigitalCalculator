@@ -10,7 +10,7 @@ Lecturer: PM. Muhammad Mun'im Ahmad Zabidi
 | Joyce Ng Ting Ming |    A17KE0077   |
 | Chan Pei Ting | A17KE0046 |
 
-## Intrduction
+## Introduction
 
 This project is dedicated as a requirement to complete the course SKEL4273 CAD with HDL of Universiti Teknologi Malaysia (UTM), Johor Bahru, Malaysia.
 
